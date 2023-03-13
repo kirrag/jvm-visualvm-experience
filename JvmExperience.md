@@ -4,6 +4,8 @@
 
 * Please open 'ru.netology.JvmExperience' in VisualVm - **[Создание фрейма main() в стеке]**
 
+[Metaspace.png]
+
 * 22:30:11.053516494: loading io.vertx - **[Начало загрузки классов библиотеки io.vertex в Metaspace]**
 
 * 22:30:11.363026227: loaded 529 classes - **[Загружено 529 классов бибилиотеки io.vertex в Metaspace]**
@@ -17,6 +19,8 @@
 * 22:30:18.018494702: loaded 869 classes - **[Загружено 869 классов бибилиотеки org.springframework в Metaspace]**
 
 * 22:30:21.018909037: now see heap - **[Теперь посмотрим на heap]**
+
+[Heap.png]
 
 * 22:30:21.019548261: creating 5000000 objects - **[В heap начали создаваться 5 млн. объектов]**
 
