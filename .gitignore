@@ -2,6 +2,7 @@
 *.logs
 *.jar
 *.bak
+*.xcf
 .idea
 .gradle
 .settings
